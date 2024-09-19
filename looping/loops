@@ -1,0 +1,11 @@
+while loop
+
+<!-- Syntax -->
+
+--initialization 
+--- while(condition): 
+        loop body
+        increment / decrement
+
+
+for loop
